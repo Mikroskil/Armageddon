@@ -1,0 +1,1 @@
+<META HTTP-EQUIV=Refresh CONTENT='0; URL=../publik.php?kodekontenpublik=loginadmin&title=Administrator'>
