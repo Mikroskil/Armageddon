@@ -1,0 +1,34 @@
+.top {
+margin-bottom: 10px;
+}
+.messageboxusername{
+	position:absolute;
+	width:75px;
+	margin-left:5px;
+	border:1px solid #c93;
+	background:#ffc;
+	padding:1px;
+	font-size:12px;
+}
+.messageboxokusername{
+	position:absolute;
+	width:auto;
+	margin-left:5px;
+	border:1px solid #349534;
+	background:#C9FFCA;
+	padding:1px;
+	font-weight:bold;
+	color:#008000;
+	font-size:12px;
+}
+.messageboxerrorusername{
+	position:absolute;
+	width:auto;
+	margin-left:5px;
+	border:1px solid #CC0000;
+	background:#F7CBCA;
+	padding:1px;
+	font-weight:bold;
+	color:#CC0000;
+	font-size:12px;
+}
